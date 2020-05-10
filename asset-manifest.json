@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/abhiweb/static/css/main.5f361e03.chunk.css",
+    "main.js": "/abhiweb/static/js/main.db03beab.chunk.js",
+    "main.js.map": "/abhiweb/static/js/main.db03beab.chunk.js.map",
+    "runtime-main.js": "/abhiweb/static/js/runtime-main.1d2b99e7.js",
+    "runtime-main.js.map": "/abhiweb/static/js/runtime-main.1d2b99e7.js.map",
+    "static/js/2.6e2f46ff.chunk.js": "/abhiweb/static/js/2.6e2f46ff.chunk.js",
+    "static/js/2.6e2f46ff.chunk.js.map": "/abhiweb/static/js/2.6e2f46ff.chunk.js.map",
+    "index.html": "/abhiweb/index.html",
+    "precache-manifest.b8bb70490bdff55a61ee064244cb231b.js": "/abhiweb/precache-manifest.b8bb70490bdff55a61ee064244cb231b.js",
+    "service-worker.js": "/abhiweb/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/abhiweb/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6e2f46ff.chunk.js.LICENSE.txt": "/abhiweb/static/js/2.6e2f46ff.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/abhiweb/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d2b99e7.js",
+    "static/js/2.6e2f46ff.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.db03beab.chunk.js"
+  ]
+}
