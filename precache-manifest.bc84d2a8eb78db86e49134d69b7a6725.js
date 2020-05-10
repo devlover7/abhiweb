@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf8ab9317b81479cbe960a127bfac47c",
+    "revision": "08c380c3ea46f97a0fc22f1746c6e333",
     "url": "/abhiweb/index.html"
   },
   {
-    "revision": "55d9419af5a053dd268e",
+    "revision": "71317b89fdbab209db2c",
     "url": "/abhiweb/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/abhiweb/static/js/2.bafb823c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "55d9419af5a053dd268e",
-    "url": "/abhiweb/static/js/main.51b131d7.chunk.js"
+    "revision": "71317b89fdbab209db2c",
+    "url": "/abhiweb/static/js/main.b22746a4.chunk.js"
   },
   {
     "revision": "e0b5c8d3cd9c949b4a04",
