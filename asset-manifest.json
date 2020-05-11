@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/abhiweb/static/css/main.5f361e03.chunk.css",
-    "main.js": "/abhiweb/static/js/main.b22746a4.chunk.js",
-    "main.js.map": "/abhiweb/static/js/main.b22746a4.chunk.js.map",
+    "main.js": "/abhiweb/static/js/main.280a20cb.chunk.js",
+    "main.js.map": "/abhiweb/static/js/main.280a20cb.chunk.js.map",
     "runtime-main.js": "/abhiweb/static/js/runtime-main.1d2b99e7.js",
     "runtime-main.js.map": "/abhiweb/static/js/runtime-main.1d2b99e7.js.map",
     "static/js/2.bafb823c.chunk.js": "/abhiweb/static/js/2.bafb823c.chunk.js",
     "static/js/2.bafb823c.chunk.js.map": "/abhiweb/static/js/2.bafb823c.chunk.js.map",
     "index.html": "/abhiweb/index.html",
-    "precache-manifest.bc84d2a8eb78db86e49134d69b7a6725.js": "/abhiweb/precache-manifest.bc84d2a8eb78db86e49134d69b7a6725.js",
+    "precache-manifest.22dfd0c3e9037c41291967a3c27f898e.js": "/abhiweb/precache-manifest.22dfd0c3e9037c41291967a3c27f898e.js",
     "service-worker.js": "/abhiweb/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/abhiweb/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.bafb823c.chunk.js.LICENSE.txt": "/abhiweb/static/js/2.bafb823c.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1d2b99e7.js",
     "static/js/2.bafb823c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b22746a4.chunk.js"
+    "static/js/main.280a20cb.chunk.js"
   ]
 }
