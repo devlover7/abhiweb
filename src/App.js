@@ -14,6 +14,12 @@ class App extends Component {
       console.log('this is:',res.data.datetime);
     })
    
+
+    this.setState(
+      {
+      loading: false
+    });
+
   }
   render(){
     return (
